@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1662668880 source:c:\jogo da velha 02\jogodavelha02.cpp\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<iostream>
+
